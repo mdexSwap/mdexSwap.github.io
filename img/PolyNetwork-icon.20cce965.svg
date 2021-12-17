@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PolyNetwork</title>
+    <g id="H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="详情" transform="translate(-59.000000, -361.000000)">
+            <g id="编组-29备份-2" transform="translate(16.000000, 182.000000)">
+                <g id="编组-4" transform="translate(43.000000, 178.000000)">
+                    <g id="PolyNetwork" transform="translate(0.000000, 1.000000)">
+                        <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                        <g id="编组-26" transform="translate(1.000000, 0.000000)" fill-rule="nonzero">
+                            <polygon id="路径" fill="#282BDB" points="8.6304 15.368 8.6304 19.9312 8.2656 19.72 6.3392 18.608 6.3392 14.0464"></polygon>
+                            <polygon id="路径" fill="#282BDB" points="3.9504 7.264 3.9504 17.2288 4.26325641e-15 14.9472 4.26325641e-15 4.9824"></polygon>
+                            <polygon id="路径" fill="#3581E6" points="17.2608 4.9824 17.2608 14.9472 8.6304 19.9312 8.6304 15.3696 13.3088 12.6672 13.3088 7.264"></polygon>
+                            <polygon id="路径" fill="#3EC7EB" points="17.2608 4.9824 13.3088 7.264 8.6304 4.5616 3.952 7.264 9.09494702e-15 4.9824 8.6304 -2.89901436e-14"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
