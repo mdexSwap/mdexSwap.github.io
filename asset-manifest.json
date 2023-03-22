@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb14143d.css",
-    "main.js": "/static/js/main.a8beb3a4.js",
+    "main.js": "/static/js/main.789257c8.js",
     "static/js/27.bbb2064b.chunk.js": "/static/js/27.bbb2064b.chunk.js",
     "static/media/OPPOSans-M.woff2": "/static/media/OPPOSans-M.bf0c9031a932feaad552.woff2",
     "static/media/reward.png": "/static/media/reward.89000f1501c5d3022db0.png",
@@ -302,6 +302,6 @@
   },
   "entrypoints": [
     "static/css/main.eb14143d.css",
-    "static/js/main.a8beb3a4.js"
+    "static/js/main.789257c8.js"
   ]
 }
