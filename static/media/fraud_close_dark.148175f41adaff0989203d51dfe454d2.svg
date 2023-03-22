@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>退出icon</title>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO首页-Dark" transform="translate(-1534.000000, -87.000000)">
+            <g id="温馨提示" transform="translate(0.000000, 75.000000)">
+                <g id="编组-6" transform="translate(360.000000, 8.000000)">
+                    <g id="退出icon" transform="translate(1174.000000, 4.000000)">
+                        <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                        <line x1="3.48235294" y1="3.48235294" x2="12.5176471" y2="12.5176471" id="直线" stroke="#B9C2CA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="3.48235294" y1="3.48235294" x2="12.5176471" y2="12.5176471" id="直线" stroke="#B9C2CA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.000000, 8.000000) rotate(-90.000000) translate(-8.000000, -8.000000) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

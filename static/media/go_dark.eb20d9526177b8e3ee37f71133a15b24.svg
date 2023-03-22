@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>转到</title>
+    <g id="组件/弹窗/导航" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5更多-Dark" transform="translate(-327.000000, -374.000000)">
+            <g id="编组-4" transform="translate(16.000000, 348.000000)">
+                <g id="编组-17" transform="translate(16.000000, 10.000000)">
+                    <g id="转到" transform="translate(303.000000, 24.000000) scale(-1, 1) rotate(-270.000000) translate(-303.000000, -24.000000) translate(295.000000, 16.000000)">
+                        <rect id="矩形" x="8.8817842e-16" y="0" width="16" height="16"></rect>
+                        <polyline id="路径-8" stroke-opacity="0.6" stroke="#E6EEF5" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.053562, 8.211770) rotate(-270.000000) translate(-8.053562, -8.211770) " points="6 4 10.107123 8.22111614 6 12.4235399"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

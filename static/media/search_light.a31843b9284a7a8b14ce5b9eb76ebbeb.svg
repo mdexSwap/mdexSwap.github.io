@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>搜索-Light</title>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO流动性挖矿-列表-Light" transform="translate(-1497.000000, -503.000000)">
+            <g id="编组-13" transform="translate(360.000000, 400.000000)">
+                <g id="搜索-Light" transform="translate(1010.000000, 95.000000)">
+                    <g transform="translate(127.000000, 8.000000)">
+                        <rect id="矩形" x="0" y="0" width="21" height="21"></rect>
+                        <line x1="14.8049766" y1="14.7578385" x2="19" y2="19" id="直线-2" stroke="#666666" stroke-width="2" stroke-linecap="round"></line>
+                        <circle id="椭圆形" stroke="#666666" stroke-width="2" cx="9" cy="9" r="8"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

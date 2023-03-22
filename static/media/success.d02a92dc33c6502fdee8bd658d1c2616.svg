@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>成功</title>
+    <defs>
+        <circle id="success-1" cx="30" cy="30" r="30"></circle>
+    </defs>
+    <g id="组件/弹窗/导航" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="弹窗" transform="translate(-190.000000, -2162.000000)">
+            <g transform="translate(160.000000, 2143.000000)" id="成功">
+                <g transform="translate(30.000000, 19.000000)">
+                    <mask id="success-2" fill="white">
+                        <use xlink:href="#success-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#20C668" transform="translate(30.000000, 30.000000) rotate(-360.000000) translate(-30.000000, -30.000000) " xlink:href="#success-1"></use>
+                    <rect id="矩形" fill-opacity="0.1" fill="#000000" style="mix-blend-mode: multiply;" mask="url(#success-2)" transform="translate(45.020815, 41.899495) rotate(-315.000000) translate(-45.020815, -41.899495) " x="30.5208153" y="23.3994949" width="29" height="37"></rect>
+                    <path d="M36.6715729,8.55025253 C39.4329966,8.55025253 41.6715729,10.7888288 41.6715729,13.5502525 L41.6713888,40.5068963 C41.6715114,40.5213338 41.6715729,40.535786 41.6715729,40.5502525 C41.6715729,43.3116763 39.4329966,45.5502525 36.6715729,45.5502525 L36.6275729,45.5492525 L23.6715729,45.5502525 C20.9101491,45.5502525 18.6715729,43.3116763 18.6715729,40.5502525 C18.6715729,37.7888288 20.9101491,35.5502525 23.6715729,35.5502525 L31.6705729,35.5492525 L31.6715729,13.5502525 C31.6715729,10.7888288 33.9101491,8.55025253 36.6715729,8.55025253 Z" id="形状结合" fill="#FFFFFF" mask="url(#success-2)" transform="translate(30.171573, 27.050253) rotate(-315.000000) translate(-30.171573, -27.050253) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

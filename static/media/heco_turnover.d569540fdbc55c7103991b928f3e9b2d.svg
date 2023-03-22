@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>24h平台交易额</title>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO首页-Light" transform="translate(-360.000000, -1967.000000)">
+            <g id="编组-21" transform="translate(0.000000, 673.000000)">
+                <g id="编组-36" transform="translate(360.000000, 100.000000)">
+                    <g id="编组-19" transform="translate(0.000000, 1023.000000)">
+                        <g id="编组-65" transform="translate(0.000000, 47.000000)">
+                            <g id="编组-77备份" transform="translate(0.000000, 122.000000)">
+                                <g id="24h平台交易额" transform="translate(0.000000, 2.000000)">
+                                    <rect id="矩形" x="0" y="0" width="30" height="30"></rect>
+                                    <path d="M0,15 C0,23.2842712 6.71572875,30 15,30 C23.2842712,30 30,23.2842712 30,15 C30,6.71572875 23.2842712,0 15,0 C6.71572875,0 0,6.71572875 0,15 Z" id="路径" fill="#8EBCDC" opacity="0.3"></path>
+                                    <polyline id="路径-10" stroke="#2C72F4" stroke-width="3" points="29.9837064 21.1979084 19 21.1979084 21.8907811 17.5040008"></polyline>
+                                    <polyline id="路径-10备份" stroke="#2C72F4" stroke-width="3" transform="translate(21.430183, 27.044862) scale(-1, -1) translate(-21.430183, -27.044862) " points="26.9220364 28.8918159 15.93833 28.8918159 18.8291111 25.1979084"></polyline>
+                                    <g id="编组-71" transform="translate(8.674676, 6.847069)" stroke="#FFFFFF" stroke-width="3">
+                                        <polyline id="路径-2" points="0 6.11411515 3.99344962 10 11.8735413 0"></polyline>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

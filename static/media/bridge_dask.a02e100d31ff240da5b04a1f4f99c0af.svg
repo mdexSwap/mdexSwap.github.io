@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>跨链桥-Dark</title>
+    <defs>
+        <linearGradient x1="13.5533382%" y1="78.5687114%" x2="13.5533382%" y2="-10.9604321%" id="bridge_dask-1">
+            <stop stop-color="#84C2FF" offset="0%"></stop>
+            <stop stop-color="#0F1114" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.5533382%" y1="78.5687114%" x2="13.5533382%" y2="-33.9913901%" id="bridge_dask-2">
+            <stop stop-color="#84C2FF" offset="0%"></stop>
+            <stop stop-color="#0F1114" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="H5-HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5首页-Dark" transform="translate(-129.000000, -319.000000)">
+            <g id="编组-11备份-2" transform="translate(16.000000, 316.000000)">
+                <g id="跨链桥" transform="translate(85.750000, 0.000000)">
+                    <g id="跨链桥-Dark" transform="translate(28.000000, 3.000000)">
+                        <circle id="椭圆形" fill="url(#bridge_dask-1)" cx="13.125" cy="20.625" r="9.375"></circle>
+                        <circle id="椭圆形" fill="url(#bridge_dask-2)" transform="translate(16.406250, 8.906250) rotate(-180.000000) translate(-16.406250, -8.906250) " cx="16.40625" cy="8.90625" r="8.90625"></circle>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g id="编组-56备份-2" mask="url(#mask-4)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="2">
+                            <g transform="translate(14.994740, 22.500000) scale(-1, 1) translate(-14.994740, -22.500000) translate(0.937500, 15.937500)">
+                                <line x1="20.3397363" y1="6.5625" x2="0.250489426" y2="6.5625" id="直线-10" stroke-linecap="round"></line>
+                                <polyline id="路径-14" stroke-linecap="round" points="3.48278003 3.50715209 4.14015105e-13 6.5625 3.48278003 9.85434938"></polyline>
+                                <rect id="矩形" x="13.1144793" y="0" width="15" height="13.125" rx="3.75"></rect>
+                            </g>
+                        </g>
+                        <g id="编组-56备份-3" mask="url(#mask-4)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="2">
+                            <g transform="translate(0.926979, 0.937500)">
+                                <line x1="20.3397363" y1="6.5625" x2="0.250489426" y2="6.5625" id="直线-10" stroke-linecap="round"></line>
+                                <rect id="矩形" x="13.1355207" y="0" width="15" height="13.125" rx="3.75"></rect>
+                                <polyline id="路径-14" stroke-linecap="round" points="3.48278003 3.50715209 4.14015105e-13 6.5625 3.48278003 9.85434938"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

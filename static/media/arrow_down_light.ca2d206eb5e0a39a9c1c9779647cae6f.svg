@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>展开icon</title>
+    <g id="锁仓" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO锁仓-Light" transform="translate(-435.000000, -1633.000000)">
+            <g id="编组-23" transform="translate(360.000000, 370.000000)">
+                <g id="编组-19备份-2" transform="translate(0.000000, 494.000000)">
+                    <g id="编组-18" transform="translate(75.000000, 252.000000)">
+                        <g id="编组-17" transform="translate(0.000000, 492.000000)">
+                            <g id="展开icon" transform="translate(0.000000, 25.000000)">
+                                <rect id="矩形" x="0" y="0" width="30" height="30"></rect>
+                                <polyline id="下拉icon" stroke-opacity="0.6" stroke="#3F4143" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.059223, 12.559223) rotate(-45.000000) translate(-15.059223, -12.559223) " points="10.8925565 8.39255651 10.8925565 16.7258898 19.2258898 16.7258898"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

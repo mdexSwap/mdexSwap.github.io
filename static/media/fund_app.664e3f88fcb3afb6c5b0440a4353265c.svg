@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>生态基金</title>
+    <g id="组件/弹窗/导航" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5更多-Light" transform="translate(-32.000000, -466.000000)">
+            <g id="编组-4" transform="translate(16.000000, 348.000000)">
+                <g id="编组-17备份-4" transform="translate(16.000000, 106.000000)">
+                    <g id="生态基金" transform="translate(0.000000, 12.000000)">
+                        <rect id="矩形备份-2" x="0" y="0" width="24" height="24"></rect>
+                        <g id="编组" transform="translate(4.000000, 3.000000)" stroke="#90979E" stroke-linecap="round" stroke-width="2">
+                            <line x1="8.5" y1="14.5" x2="8.5" y2="16.5" id="直线-12"></line>
+                            <rect id="矩形" x="0" y="0" width="17" height="14.3157895" rx="4"></rect>
+                            <line x1="4.5" y1="17.5" x2="12.5" y2="17.5" id="直线-2"></line>
+                            <path d="M4.99375,8.765625 C5.75895989,7.92901471 6.39408113,7.47803775 6.89911372,7.41269412 C7.65666261,7.31467867 8.51571883,8.01306518 8.89120793,8.23430575 C9.26669703,8.45554631 10.2991126,9.02567825 11.651777,7.79517148 C11.9689339,7.49768408 12.2287582,7.20137692 12.43125,6.90625" id="路径-19"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

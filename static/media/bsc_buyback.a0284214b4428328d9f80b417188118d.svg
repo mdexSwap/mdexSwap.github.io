@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>已回购金额</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="BSC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BSC首页-Light" transform="translate(-1259.000000, -2089.000000)">
+            <g id="编组-21" transform="translate(-1.000000, 673.000000)">
+                <g id="编组-35" transform="translate(361.000000, 100.000000)">
+                    <g id="编组-19" transform="translate(0.000000, 1023.000000)">
+                        <g id="编组-2" transform="translate(899.000000, 47.000000)">
+                            <g id="编组-77备份-5" transform="translate(0.000000, 244.000000)">
+                                <g id="已回购金额" transform="translate(0.000000, 2.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="蒙版"></g>
+                                    <g id="编组-34" mask="url(#bsc_buyback)">
+                                        <g transform="translate(-1.742519, -1.435803)">
+                                            <g id="编组-30" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                <g id="编组-33" transform="translate(16.343230, 16.359438) rotate(14.000000) translate(-16.343230, -16.359438) translate(2.865579, 2.859534)" stroke="#F7C325" stroke-width="3">
+                                                    <path d="M0.468126637,13.4999041 C0.468126637,20.9556953 6.41954963,26.9998083 13.7610019,26.9998083 C20.1760491,26.9998083 25.5297436,22.3848443 26.7787406,16.2456596" id="路径" stroke-dasharray="3,4"></path>
+                                                    <path d="M26.9553037,12.232901 C26.3264099,5.37123486 20.6409466,0 13.7202028,0 C7.79411075,0 2.77374456,3.93826921 1.05825094,9.37829565" id="路径"></path>
+                                                    <polyline id="路径-4" transform="translate(2.669490, 6.234359) rotate(-4.000000) translate(-2.669490, -6.234359) " points="0.16948977 3.71732219 0.370298048 8.75139672 5.16948977 8.52622234"></polyline>
+                                                </g>
+                                            </g>
+                                            <circle id="椭圆形" stroke="none" fill="#F7C325" fill-rule="evenodd" opacity="0.3" cx="16.4925191" cy="16.3312509" r="9.25"></circle>
+                                            <path d="M16.7425191,21.4358028 C19.5039428,21.4358028 21.7425191,19.1972265 21.7425191,16.4358028 M16.7425191,11.4358028 C13.9810953,11.4358028 11.7425191,13.674379 11.7425191,16.4358028" id="形状" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="square"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

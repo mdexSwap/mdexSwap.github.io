@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>失败</title>
+    <defs>
+        <rect id="failed-1" x="0" y="0" width="60" height="60" rx="30"></rect>
+    </defs>
+    <g id="组件/弹窗/导航" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="弹窗" transform="translate(-351.000000, -2290.000000)">
+            <g id="弹窗备份" transform="translate(321.000000, 2271.000000)">
+                <g id="失败" transform="translate(30.000000, 19.000000)">
+                    <mask id="failed-2" fill="white">
+                        <use xlink:href="#failed-1"></use>
+                    </mask>
+                    <use id="蒙版" fill="#FF6971" xlink:href="#failed-1"></use>
+                    <polygon id="矩形" fill-opacity="0.15" fill="#000000" style="mix-blend-mode: multiply;" mask="url(#failed-2)" transform="translate(40.867938, 39.329828) rotate(-315.000000) translate(-40.867938, -39.329828) " points="16.1085538 24.878652 65.6275914 24.7605815 65.6275914 53.7605815 35.2030821 53.8990738 35.6275914 44.6580316 27.7084994 45.1406341"></polygon>
+                    <path d="M30,9.99674225 C32.6520794,9.99501429 34.8034154,12.1435487 34.8051434,14.7956281 C34.8051855,14.8602836 34.8039218,14.9249334 34.8013531,14.9895379 L34.1645972,31.0042139 C34.0757253,33.2393812 32.2369326,35.0050771 30,35.0032578 C27.7620383,35.0014376 25.9242791,33.2338954 25.8353199,30.9977017 L25.1987503,14.9960493 C25.0931946,12.3426622 27.1586201,10.1060971 29.8120073,10.0005414 C29.8746408,9.9980497 29.937317,9.99678309 30,9.99674225 Z" id="矩形" fill="#FFFFFF" mask="url(#failed-2)"></path>
+                    <circle id="椭圆形" fill="#FFFFFF" mask="url(#failed-2)" transform="translate(30.000000, 42.000000) rotate(-315.000000) translate(-30.000000, -42.000000) " cx="30" cy="42" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>提取</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.011765 0 0 0 0 0.678431 0 0 0 0 0.564706 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO流动性挖矿-列表-Dark" transform="translate(-1231.000000, -1056.000000)">
+            <g id="币种" transform="translate(360.000000, 880.000000)">
+                <g id="编组-24" transform="translate(872.000000, 125.000000)">
+                    <g id="提取" transform="translate(0.000000, 45.000000)" filter="url(#filter-1)">
+                        <g transform="translate(0.000000, 7.000000)">
+                            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                            <g id="编组-22" transform="translate(0.800000, 0.800000)" stroke="#979797" stroke-linecap="round" stroke-width="2">
+                                <path d="M13.245054,7.6 C13.8829131,7.6 14.4,8.11708692 14.4,8.75494597 L14.4,12 C14.4,13.1045695 13.5045695,14 12.4,14 L2,14 C0.8954305,14 1.3527075e-16,13.1045695 0,12 L0,8.78242116 C-3.02018103e-16,8.12938798 0.529387984,7.6 1.18242116,7.6 L1.18242116,7.6 L1.18242116,7.6" id="路径" stroke-linejoin="round"></path>
+                                <path d="M3.6,10.4 L3.6,2 C3.6,0.8954305 4.4954305,2.02906125e-16 5.6,0 L8.8,0 C9.9045695,-2.02906125e-16 10.8,0.8954305 10.8,2 L10.8,10.4 L10.8,10.4" id="路径"></path>
+                                <line x1="2.40839763" y1="10.8" x2="12.0245518" y2="10.8" id="直线-4"></line>
+                                <line x1="7.2" y1="3.6" x2="7.2" y2="8" id="直线-5"></line>
+                                <polyline id="路径-2" stroke-linejoin="round" points="5.54674329 4.8900856 7.20087022 3.39121116 8.80555898 4.8900856"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

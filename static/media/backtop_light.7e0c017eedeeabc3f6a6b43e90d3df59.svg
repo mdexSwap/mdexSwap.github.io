@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>回到顶部-Light</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="backtop_light">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="BSC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BSC首页-Light" transform="translate(-1820.000000, -4175.000000)">
+            <g id="编组-2备份" transform="translate(0.000000, 3372.000000)">
+                <g id="回到顶部-Light" transform="translate(1820.000000, 803.000000)">
+                    <circle id="椭圆形" fill-opacity="0.3" fill="#3F4143" cx="25" cy="25" r="25"></circle>
+                    <g filter="url(#backtop_light)" id="编组-80">
+                        <g transform="translate(14.000000, 12.000000)">
+                            <rect id="矩形" fill="#D8D8D8" x="8.5" y="15" width="5" height="12" rx="2.5"></rect>
+                            <rect id="矩形" fill="#D8D8D8" x="1.5" y="0" width="19" height="5" rx="2"></rect>
+                            <path d="M12.4142136,8.41421356 L18.5857864,14.5857864 C19.366835,15.366835 19.366835,16.633165 18.5857864,17.4142136 C18.2107137,17.7892863 17.7020059,18 17.1715729,18 L4.82842712,18 C3.72385763,18 2.82842712,17.1045695 2.82842712,16 C2.82842712,15.469567 3.03914081,14.9608592 3.41421356,14.5857864 L9.58578644,8.41421356 C10.366835,7.63316498 11.633165,7.63316498 12.4142136,8.41421356 Z" id="三角形" fill="#D8D8D8"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

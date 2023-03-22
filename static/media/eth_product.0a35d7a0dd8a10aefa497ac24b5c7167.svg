@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>产出</title>
+    <g id="ETH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ETH首页-Dark" transform="translate(-360.000000, -1845.000000)">
+            <g id="编组-21" transform="translate(-1.000000, 673.000000)">
+                <g id="编组-37" transform="translate(361.000000, 100.000000)">
+                    <g id="编组-19" transform="translate(0.000000, 1023.000000)">
+                        <g id="编组-65" transform="translate(0.000000, 47.000000)">
+                            <g id="产出" transform="translate(0.000000, 2.000000)">
+                                <rect id="矩形" x="0" y="0" width="30" height="30"></rect>
+                                <g id="编组-71" transform="translate(0.000000, 1.000000)">
+                                    <path d="M27.7056701,22.9765361 C29.1592201,20.666072 30,17.9312233 30,15 C30,6.71572875 23.2842712,0 15,0 C6.71572875,0 0,6.71572875 0,15 C0,17.9575162 0.855931059,20.715119 2.33359239,23.0386075 L27.7056701,22.9765361 Z" id="路径" fill="#616CFF" opacity="0.3"></path>
+                                    <rect id="矩形" fill="#616CFF" x="0" y="25" width="30" height="3"></rect>
+                                    <path d="M15,7 C10.581722,7 7,10.581722 7,15" id="路径" stroke="#FFFFFF" stroke-width="3"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

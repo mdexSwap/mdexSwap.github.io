@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>指向icon</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.011765 0 0 0 0 0.678431 0 0 0 0 0.564706 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO流动性挖矿-列表-Dark" transform="translate(-1471.000000, -1010.000000)">
+            <g id="币种" transform="translate(360.000000, 880.000000)">
+                <g id="编组-24" transform="translate(872.000000, 125.000000)">
+                    <g id="指向icon" transform="translate(171.000000, 0.000000)" filter="url(#filter-1)">
+                        <g transform="translate(68.000000, 5.000000)">
+                            <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M5.23587671,3.61245332 L12.3578019,3.61245332 L12.3578019,10.700123 M3.85910685,12.1979962 L12.0579653,3.96044916" id="路径-13" stroke="#03AD90" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

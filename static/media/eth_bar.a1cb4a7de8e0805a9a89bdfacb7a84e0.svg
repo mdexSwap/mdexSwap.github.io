@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ETH列表</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="eth_bar">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.382222 0 0 0 0 0.423407 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="ETH" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ETH流动性挖矿-列表-Light" transform="translate(-1228.000000, -435.000000)">
+            <g id="编组-13" transform="translate(360.000000, 400.000000)">
+                <g id="编组-3" transform="translate(828.000000, 35.000000)">
+                    <g id="ETH列表" transform="translate(40.000000, 0.000000)" filter="url(#eth_bar)">
+                        <g>
+                            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                            <g id="编组-18" fill="#D8D8D8">
+                                <rect id="矩形" x="0" y="0" width="5" height="5" rx="1"></rect>
+                                <rect id="矩形备份-13" x="0" y="7.5" width="5" height="5" rx="1"></rect>
+                                <rect id="矩形备份-15" x="0" y="15" width="5" height="5" rx="1"></rect>
+                                <rect id="矩形备份-12" x="7" y="0" width="13" height="5" rx="1"></rect>
+                                <rect id="矩形备份-14" x="7" y="7.5" width="13" height="5" rx="1"></rect>
+                                <rect id="矩形备份-16" x="7" y="15" width="13" height="5" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

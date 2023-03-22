@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>HECO卡片</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="heco_card">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.011765 0 0 0 0 0.678431 0 0 0 0 0.564706 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO流动性挖矿-卡片-Dark" transform="translate(-1186.000000, -435.000000)">
+            <g id="编组-13" transform="translate(360.000000, 400.000000)">
+                <g id="HECO卡片" transform="translate(826.000000, 35.000000)" filter="url(#heco_card)">
+                    <g>
+                        <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                        <g id="编组-17" fill="#D8D8D8">
+                            <rect id="矩形" x="0" y="0" width="5" height="9" rx="1"></rect>
+                            <rect id="矩形备份-9" x="0" y="11" width="5" height="9" rx="1"></rect>
+                            <rect id="矩形备份-5" x="7.5" y="0" width="5" height="9" rx="1"></rect>
+                            <rect id="矩形备份-10" x="7.5" y="11" width="5" height="9" rx="1"></rect>
+                            <rect id="矩形备份-8" x="15" y="0" width="5" height="9" rx="1"></rect>
+                            <rect id="矩形备份-11" x="15" y="11" width="5" height="9" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

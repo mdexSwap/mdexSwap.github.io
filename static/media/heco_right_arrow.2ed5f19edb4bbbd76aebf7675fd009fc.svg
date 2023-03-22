@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>箭头</title>
+    <g id="HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO董事会-卡片-Light" transform="translate(-539.000000, -813.000000)">
+            <g id="编组-35备份-3" transform="translate(360.000000, 716.000000)">
+                <g id="编组-24" transform="translate(30.000000, 57.000000)">
+                    <g id="编组-19" transform="translate(10.000000, 12.000000)">
+                        <g id="箭头" transform="translate(139.000000, 28.000000)">
+                            <rect id="矩形" x="0" y="0" width="22" height="22"></rect>
+                            <g id="编组-14" transform="translate(2.000000, 11.000000)" stroke="#03AD90" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                                <line x1="0.5" y1="0.5" x2="16.5" y2="0.5" id="直线-6"></line>
+                            </g>
+                            <polyline id="路径-3" stroke="#03AD90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="14.00383 5.99891663 18.9923431 11.5 14.00383 17.0057831"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

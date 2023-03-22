@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>展开</title>
+    <g id="H5-HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5首页-Light" transform="translate(-17.000000, -98.000000)">
+            <g id="H5-HECO导航-Light" transform="translate(0.000000, 88.000000)">
+                <g id="展开" transform="translate(17.000000, 10.000000)">
+                    <g id="编组-37">
+                        <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                    <g id="编组-2" transform="translate(3.000000, 3.500000)">
+                        <g id="编组" transform="translate(9.500000, 8.738098) scale(-1, 1) translate(-9.500000, -8.738098) translate(0.000000, 5.738098)">
+                            <line x1="9.5" y1="2.76190183" x2="19" y2="2.76190183" id="直线-7" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M0.498774265,2.15371351 C-0.165872953,2.52296196 -0.165872953,3.48070014 0.496466462,3.84533299 L4.14971836,5.87619949 C4.79821095,6.23621673 5.59210015,5.76773275 5.59210015,5.02923584 L5.59210015,0.96981065 C5.59440293,0.231313741 4.80051876,-0.234862432 4.15202616,0.122847008 L0.498774265,2.15371351 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                        <line x1="-1.45657766e-16" y1="0.5" x2="18" y2="0.5" id="直线-7" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="-1.39027043e-16" y1="16.5" x2="17.5" y2="16.5" id="直线-7备份" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

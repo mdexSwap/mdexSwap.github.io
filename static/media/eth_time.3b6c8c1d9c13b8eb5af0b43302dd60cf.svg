@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>时间</title>
+    <defs>
+        <linearGradient x1="100.581791%" y1="100%" x2="0%" y2="0%" id="eth_time-1">
+            <stop stop-color="#9D79FF" offset="0%"></stop>
+            <stop stop-color="#616CFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.581791%" y1="100%" x2="0.681388883%" y2="0.677447552%" id="eth_time-2">
+            <stop stop-color="#9D79FF" offset="0%"></stop>
+            <stop stop-color="#616CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="H5-HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5首页-Light" transform="translate(-193.000000, -382.000000)">
+            <g id="编组-14备份" transform="translate(16.000000, 382.000000)">
+                <g id="时间" transform="translate(177.000000, 0.000000)">
+                    <g id="编组-10">
+                        <path d="M9.08108108,0 C12.9022973,0 16,3.0977027 16,6.91891892 C16,10.7401351 12.9022973,13.8378378 9.08108108,13.8378378 C5.25986486,13.8378378 2.16216216,10.7401351 2.16216216,6.91891892 C2.16216216,3.0977027 5.25986486,0 9.08108108,0 Z" id="路径备份" fill="url(#eth_time-1)" opacity="0.532746815"></path>
+                        <path d="M6.91891892,2.16216216 C10.7401351,2.16216216 13.8378378,5.25986486 13.8378378,9.08108108 C13.8378378,12.9022973 10.7401351,16 6.91891892,16 C3.0977027,16 0,12.9022973 0,9.08108108 C0,5.25986486 3.0977027,2.16216216 6.91891892,2.16216216 Z" id="路径" fill="url(#eth_time-2)"></path>
+                    </g>
+                    <polyline id="路径-2" stroke="#FFFFFF" stroke-width="1.14" stroke-linecap="round" stroke-linejoin="round" points="6.5 5.55435876 6.5 9.08108108 8.993628 11.4481503"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

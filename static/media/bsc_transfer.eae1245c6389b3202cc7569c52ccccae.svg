@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BSC To</title>
+    <g id="回购销毁" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HECO回购销毁记录-Light" transform="translate(-888.000000, -686.000000)">
+            <g id="编组-4" transform="translate(360.000000, 596.000000)">
+                <g id="BSC-To" transform="translate(528.000000, 90.000000)">
+                    <polygon id="矩形" points="0 -4.64628336e-14 32 -4.64628336e-14 32 18 0 18"></polygon>
+                    <polygon id="路径" fill="#F7C325" fill-rule="nonzero" points="29.1005733 12 2 12 4.25310107 10.0737791 23.9562338 10.0737791 19.8585749 6 23.0252089 6"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

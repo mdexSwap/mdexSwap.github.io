@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>邀请返佣-Dark</title>
+    <defs>
+        <linearGradient x1="57.4496658%" y1="-5.15230254%" x2="16.6816387%" y2="85.8065105%" id="linearGradient-1">
+            <stop stop-color="#0F1114" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#5AFFE3" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="30" height="30"></rect>
+    </defs>
+    <g id="H5-HECO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5首页-Dark" transform="translate(-44.000000, -319.000000)">
+            <g id="编组-11备份-2" transform="translate(16.000000, 316.000000)">
+                <g id="邀请返佣-Dark" transform="translate(28.000000, 3.000000)">
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" cx="9.84375" cy="19.21875" r="9.84375"></circle>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="蒙版"></g>
+                    <g id="编组" mask="url(#mask-3)" stroke-linecap="round">
+                        <g transform="translate(0.937500, 1.406250)">
+                            <g id="编组-49备份" transform="translate(20.625000, 7.031250)">
+                                <line x1="0" y1="3.75" x2="7.5" y2="3.75" id="直线-8" stroke="#FFFFFF" stroke-width="2"></line>
+                                <line x1="3.75" y1="0" x2="3.75" y2="7.5" id="直线-9" stroke="#FFFFFF" stroke-width="2"></line>
+                            </g>
+                            <g id="编组-37备份">
+                                <path d="M11.5513393,13.125 C5.17171076,13.125 0,17.5769413 0,23.0686891 C0,28.560437 23.1026786,28.560437 23.1026786,23.0686891 C23.1026786,19.9177049 21.4001065,17.1090341 18.7436798,15.2871917" id="路径" stroke="#FFFFFF" stroke-width="2"></path>
+                                <path d="M5.15625,0 L11.71875,0 C15.3431187,-6.65785724e-16 18.28125,2.93813133 18.28125,6.5625 C18.28125,10.1868687 15.3431187,13.125 11.71875,13.125 C8.09438133,13.125 5.15625,10.1868687 5.15625,6.5625 L5.15625,0 L5.15625,0 Z" id="矩形" stroke="#FFFFFF" stroke-width="2" transform="translate(11.718750, 6.562500) scale(-1, 1) translate(-11.718750, -6.562500) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
