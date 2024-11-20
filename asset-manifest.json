@@ -1,11 +1,11 @@
 {
   "files": {
-    "main-2e2ee8f2.js": "/static/js/main-2e2ee8f2.580e809a.js",
+    "main-2e2ee8f2.js": "/static/js/main-2e2ee8f2.b864ce32.js",
     "static/js/27.0a1ac7c3.chunk.js": "/static/js/27.0a1ac7c3.chunk.js",
     "static/js/701.92c4bf0f.js": "/static/js/701.92c4bf0f.js",
     "main-43dd7041.js": "/static/js/main-43dd7041.6f9c8d56.js",
     "main-e96e9bea.css": "/static/css/main-e96e9bea.eb14143d.css",
-    "main-51fd6ec2.js": "/static/js/main-51fd6ec2.ad930177.js",
+    "main-51fd6ec2.js": "/static/js/main-51fd6ec2.f074b440.js",
     "main-847c7371.js": "/static/js/main-847c7371.5a7db116.js",
     "main-c998f137.js": "/static/js/main-c998f137.3e9071e7.js",
     "main-6a7ecee5.js": "/static/js/main-6a7ecee5.be391964.js",
@@ -19,8 +19,8 @@
     "main-e3276da4.js": "/static/js/main-e3276da4.a9b1e9c8.js",
     "main-52f0199e.js": "/static/js/main-52f0199e.c39bff28.js",
     "main-82636f36.js": "/static/js/main-82636f36.6b031ba6.js",
-    "main-84781932.js": "/static/js/main-84781932.615568d6.js",
-    "main-96d4916e.js": "/static/js/main-96d4916e.3c9bcd30.js",
+    "main-84781932.js": "/static/js/main-84781932.ce193117.js",
+    "main-96d4916e.js": "/static/js/main-96d4916e.2f7376ce.js",
     "static/js/274.bbc9a181.js": "/static/js/274.bbc9a181.js",
     "static/js/733.7085c36d.js": "/static/js/733.7085c36d.js",
     "static/js/612.770cc07e.js": "/static/js/612.770cc07e.js",
@@ -302,6 +302,7 @@
     "static/media/heco_down.svg": "/static/media/heco_down.83048937ea3291146940a3fba4b6ccee.svg",
     "static/media/bsc_down.svg": "/static/media/bsc_down.4708c72cda3a4517430215fca28b3221.svg",
     "static/media/bttc_down.svg": "/static/media/bttc_down.72b6fc1a8fd1a8045cbd4e4044a3d66c.svg",
+    "static/media/time.svg": "/static/media/time.06558fe09acab054b12af69a9fd1bd33.svg",
     "static/media/heco_check.svg": "/static/media/heco_check.0e5e4a1a61dbf95053aa890fbab27045.svg",
     "static/media/bsc_check.svg": "/static/media/bsc_check.d1f83578951ef82aab0a642b2b91bb42.svg",
     "static/media/bttc_check.svg": "/static/media/bttc_check.e5427b3c255a64a606af05d2921e8a57.svg",
@@ -365,7 +366,7 @@
     "static/js/701.92c4bf0f.js",
     "static/js/main-43dd7041.6f9c8d56.js",
     "static/css/main-e96e9bea.eb14143d.css",
-    "static/js/main-51fd6ec2.ad930177.js",
+    "static/js/main-51fd6ec2.f074b440.js",
     "static/js/main-847c7371.5a7db116.js",
     "static/js/main-c998f137.3e9071e7.js",
     "static/js/main-6a7ecee5.be391964.js",
@@ -379,8 +380,8 @@
     "static/js/main-e3276da4.a9b1e9c8.js",
     "static/js/main-52f0199e.c39bff28.js",
     "static/js/main-82636f36.6b031ba6.js",
-    "static/js/main-84781932.615568d6.js",
-    "static/js/main-96d4916e.3c9bcd30.js",
-    "static/js/main-2e2ee8f2.580e809a.js"
+    "static/js/main-84781932.ce193117.js",
+    "static/js/main-96d4916e.2f7376ce.js",
+    "static/js/main-2e2ee8f2.b864ce32.js"
   ]
 }
